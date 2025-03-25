@@ -1,0 +1,14 @@
+LEVEL
+14 20 0							-- Initial player tile & anim
+5							-- Number of enemies
+V 13 8 0						-- Enemy type, initial enemy tile & anim
+V 2 8 1		\n
+S 12 11 0	\n
+S 3 11 1	\n
+M 1 20 1	\n
+5							-- Number of items
+K 5 20 -1						-- Item type, initial tile, time to appear
+D 6 5 -1	\n
+G 9 8 20	\n
+S 6 8 22	\n
+C 9 5 30	\n

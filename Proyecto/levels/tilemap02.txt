@@ -1,0 +1,27 @@
+TILEMAP
+16 22 							-- Size of tile map in tiles
+32 16 32 16 						-- Tile size (físico) & block size (gráfico)
+images/Tiles/tilesheet.png 				-- Tilesheet
+8 4 							-- Number of tiles in tilesheet
+B99999999999999B
+C              C
+9              9
+A              A
+9              9
+A   12222223   A
+9              9
+A              A
+913  122223  139
+A      AA      A
+9      99      9
+A G222GAAG222G A
+9              9
+A              A
+9 G2GGG13GGG2G 9
+A              A
+9              9
+A 1GG2GGGG2GG3 A
+9              9
+A              A
+B12222999922223B
+CEEEEEEEEEEEEEEC
